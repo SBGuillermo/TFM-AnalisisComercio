@@ -9,7 +9,10 @@ Intentaremos establer relaciones entre;
 -	Establecer una precidión sobre los ingresos (ARIMA)
 
 El trabajo se ha dividido en 7 notebooks para poder procesarlos sin problemas.
+
 Todos los notebooks se han desarrolla en la plataforma de google colaboratory, incluido el frontened
+
 Esta plataforma cuenta con todas las bibliotecas necesarias para ejecutar los notebook excepto la de streamlit y gnok, usadas para desarrollar el archivo .py
+
 El frontener esta en dos versiones distintas: un notebook y un archivo de python .py, con el que se puede lanzar directamente
 
