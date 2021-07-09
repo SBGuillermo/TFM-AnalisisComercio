@@ -16,3 +16,5 @@ Esta plataforma cuenta con todas las bibliotecas necesarias para ejecutar los no
 
 El frontener esta en dos versiones distintas: un notebook y un archivo de python .py, con el que se puede lanzar directamente
 
+El notebook 1 utilizar los datos públicos descargados de la red. Mientras que los notebooks de 2 al 6 utilizan los datos de las tablas csv creadas apartir del notebook 1 (table1.csv, table2.csv)
+Por ultimo, el fronter utiliza un set de datos creado desde el notebook 5 (DataKmeans.csv)
